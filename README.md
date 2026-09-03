@@ -23,6 +23,27 @@ A Power BI dashboard analyzing cafe sales performance, customer payment behavior
 5. Business Insight – Key findings and recommendations
 6. Item Details (hidden drill-through page)
 
+## 📊 Dashboard Preview
+
+### 🏠 Home
+![Home](Home.png)
+
+### 📈 Executive Overview
+![Executive Overview](Executive-Overview.png)
+
+### 👥 Customer Analysis
+![Customer Analysis](Customer-Analysis.png)
+
+### 📦 Product Analysis
+![Product Analysis](Product-Analysis.png)
+
+### 💡 Business Insight
+![Business Insight](Business-Insight.png)
+
+### 🔍 Item Details (Drillthrough)
+![Item Details Drillthrough](Item-Details-Drillthrough.png)
+
+
 ## Key Insights
 - Total revenue: $85.25K, with total profit of $80.98K (net revenue margin ~95%)
 - Sales grew 9.26% over the previous month
