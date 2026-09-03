@@ -23,7 +23,25 @@ A Power BI dashboard analyzing cafe sales performance, customer payment behavior
 5. Business Insight – Key findings and recommendations
 6. Item Details (hidden drill-through page)
 
+### 📊 Dashboard Preview
 
+#### 🏠 Home
+<img src="Home.png" width="700">
+
+#### 📈 Executive Overview
+<img src="Executive-Overview.png" width="700">
+
+#### 👥 Customer Analysis
+<img src="Customer-Analysis.png" width="700">
+
+#### 📦 Product Analysis
+<img src="Product-Analysis.png" width="700">
+
+#### 💡 Business Insight
+<img src="Business-Insight.png" width="700">
+
+#### 🔍 Item Details (Drillthrough)
+<img src="Item-Details-Drillthrough.png" width="700">
 
 
 ## Key Insights
