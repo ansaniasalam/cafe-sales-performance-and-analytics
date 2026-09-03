@@ -56,5 +56,12 @@ A Power BI dashboard analyzing cafe sales performance, customer payment behavior
 - Monthly transaction volume stayed fairly steady through the year, with a rise toward Q4
 - Revenue tracked slightly ahead of target ($7.22K vs. a $7.02K goal, +2.86%)
 
+## 📁 Project Files
+- Cafe Sales Performance and Analytics.pbix – Power BI project file
+- Dashboard-Preview/ – Folder containing screenshots of all dashboard pages
+- Cafe_Sales_Raw_Data.csv – Original, unprocessed sales data
+- Cafe_Sales_Cleaned_Data.xlsx – Cleaned and transformed data used for analysis
+- Cafe_Sales_Project_Report.pdf – Full project report with methodology and findings
+
 ## Project Author
 Ansania Salam
